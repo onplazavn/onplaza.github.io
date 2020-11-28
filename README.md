@@ -10,7 +10,7 @@
         <meta name="if:Related Posts" content="1">
         <meta name="text:Disqus shortname" content="">
         <meta name="text:Google analytics ID" content="">
-        {/block:Hidden}
+      
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="theme-color" content="#35465D">
